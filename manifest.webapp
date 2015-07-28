@@ -1,0 +1,5 @@
+{
+  "name": "dummy app",
+  "description": "dummy app",
+  "launch_path": "/index.html"
+}
