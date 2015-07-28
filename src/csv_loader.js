@@ -1,7 +1,7 @@
 var parse = require('csv-parse');
 var XMLHttpRequestPromise = require('xhr-promise');
 
-var prefix = '../gtfs_caltrain_devs/';
+var prefix = 'gtfs_caltrain_devs/';
 var csvs = [
   prefix + 'stops.txt',
   prefix + 'stop_times.txt',
