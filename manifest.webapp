@@ -1,5 +1,5 @@
 {
-  "name": "dummy app",
-  "description": "dummy app",
+  "name": "Caltrain '15",
+  "description": "Caltrain app for 2015 schedule",
   "launch_path": "/index.html"
 }
